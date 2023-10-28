@@ -18,8 +18,5 @@ header
     width: 80%;
     height: 50vh;
     background-color: yellow;
-}
-header
-{
-    background-image: url(31530356_bird_2.jpg)
+     background-image: url(/31530356_bird_2.jpg)
 }
